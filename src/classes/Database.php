@@ -7,7 +7,7 @@ require_once dirname(__DIR__) . '/settings/database.php';
 * Database helper.
 * Extending PDO to use custom methods.
 * 
-* @author Guilherme Alves | contact@theguilherme.com
+* @author Guilherme Alves | theguilherme.com@gmail.com
 * @version 1.0
 */
 class Database extends \PDO
